@@ -1,6 +1,8 @@
-# KalkulatorApp
+# calculator-app
 
-KalkulatorApp is a simple Windows Forms application written in C# that provides a graphical calculator interface for performing basic arithmetic operations.  
+
+
+calculator-app is a simple Windows Forms application written in C# that provides a graphical calculator interface for performing basic arithmetic operations.  
 The application is designed with a clean and intuitive user interface, allowing quick and easy mathematical calculations.
 
 ## Features
